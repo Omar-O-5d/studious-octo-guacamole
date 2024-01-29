@@ -1,0 +1,26 @@
+#myCanvas {
+    box-shadow: mediumaquamarine 20px 20px 20px;
+    border-color: aquamarine;
+}
+
+#footer{
+    background-color: darkcyan;
+    width: 1000px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+    position: sticky;
+}
+
+#h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-style: oblique;
+    font-weight: 600;
+    text-shadow: 20px 20px 20px gray;
+    
+}
+
+#img{
+    width: 300px;
+    length
+}
